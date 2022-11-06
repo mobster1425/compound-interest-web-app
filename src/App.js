@@ -1,8 +1,8 @@
 import React,{useState} from 'react';
 import './App.css';
 import Principalamount from './Principalamount';
-import Chartbar from './Chartbar';
-import PreviousMap from 'postcss/lib/previous-map';
+
+
  function App() {
 
   const [p,newp]=useState(10);
